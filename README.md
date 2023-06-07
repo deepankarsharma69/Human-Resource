@@ -1,4 +1,5 @@
-# Human-Resource
+## Human-Resource
+# Employee Distribution Report
 First I have downloaded the master file of Human Resource from Git Hub.
 Second I created the database on My SQL by the name of projects and imported the master file into this data base so that i can clean the data and to retrieve out necessary insights.
 I checked the format of the data after importing the file in My SQL and change the format of termdate and hire_date into a uniform format.
