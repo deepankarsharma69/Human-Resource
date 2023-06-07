@@ -5,5 +5,5 @@ I checked the format of the data after importing the file in My SQL and change t
 After making the date format uniform, I started retrieving the insights from the master file.
 I have also uploaded the SQL script file in this repository by the name of projects where I have written SQL queries under proper heading.
 There are total of 10 findings to make the data insightful.
-**POWER BI** file has been uploaded by the name of **HR Employement distribution report**.
+**POWER BI** file has been uploaded by the name of **Employee Dsitribution Report**.
 **My SQL** file has been uploaded by the name of **Projects**.
